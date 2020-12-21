@@ -1,5 +1,5 @@
 
-with open(r"data.txt", 'r') as file:
+with open(r"01\data.txt", 'r') as file:
     data = [int(line) for line in file]
     
 for n in data:
