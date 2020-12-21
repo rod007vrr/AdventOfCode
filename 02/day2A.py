@@ -1,4 +1,3 @@
-
 with open(r"02\data.txt", 'r') as file:
     data = [line for line in file]
 
